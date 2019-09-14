@@ -1,0 +1,134 @@
+body{
+	font-family: Source Sans Pro;
+	letter-spacing: 0.05rem;
+}
+
+.jumbotron{
+			background: /*white*/  #322f30;
+			font-weight: 300;
+			height: 400px;
+			color: /*black*/ fff;
+		margin-top: 50px;
+		font-size: xx-large;	
+		text-align: center;
+
+
+		  max-width: 100%;
+    min-width: 300px;
+    height: auto;
+
+		}
+.lowerdetails{
+/*color: #083238;*/
+	font-size:14px ;
+	padding-bottom: 14px
+
+}
+		.container{
+
+			padding-bottom: 100px;
+			text-align: center;
+		}
+		
+		.center{
+
+			text-align: left;
+			padding: 10px
+
+
+		}
+
+		#abovename{
+
+			padding-top: 70px
+		}
+		#rsme{
+			padding-top: 30px;
+		}
+
+	#Contact{
+		margin-top: 10px;
+		margin-bottom: 40px;
+		padding-bottom: 10px;
+		font-size: 20px;
+
+	}	
+	.resume{
+		margin-top: 40px
+	}
+	.lb{
+		text-align: left;
+	}
+
+/*------------------------project page css----------------*/
+
+
+.container_proj{
+	padding-top: 85px;
+	text-align: left;
+}
+.proj_item{
+
+	padding-top: 50px;
+	padding-bottom: 100px
+}
+.title_proj{
+	padding-top: 10px
+}
+
+
+img
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
+.badge{
+
+	height: 25px;
+	font-size: 15px;
+
+}
+.btn{
+	padding-top: 2px;
+}
+/*.col{
+	color: blue
+}*/
+/*--------------contact page css------*/
+.container_contact{
+	padding-top: 85px;
+		text-align: center;
+}
+#h1_con{
+
+	padding-bottom: 150px
+}
+
+
+
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    font-family: 'Lato', sans-serif;
+    color: #FFF;
+    background: #322f30;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+
+}
+a:hover{
+	color: #fff;
+
+}
+.lp{
+	padding-right: 20px
+}
